@@ -1,0 +1,10 @@
+Package: mapazac
+Type: Package
+Title: Mapas geopolíticos y geodemográficos de Zacatecas
+Version: 1.0
+Date: 2015-03-08
+Author: Iván Pacheco Soto
+Maintainer: "Iván Pacheco Soto" <ivanpsmx@msn.com>
+Description: More about what it does (maybe more than one line)
+Depends: ggplot2, RColorBrewer
+License: GPL-2
